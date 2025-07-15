@@ -1,0 +1,4 @@
+build/
+wine-*.tar.xz
+wine-*/
+__pycache__/
